@@ -103,6 +103,13 @@ p {
 .card {
   background-color: #fff;
   border-radius: 10%;
+  width: 200px;
+  height: 250px;
+}
+
+.feature-box {
+    align: center;
+    margin-left: 0%
 }
 /* Title Section */
 

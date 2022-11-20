@@ -35,10 +35,5 @@ def fahrenheit_from():
 #     return render_template("index.html", launch="launch")
 
 
-# @app.route("/launch.html")
-# def blast():
-#     render_template("launch.html")
-
-
 if __name__ == "__main__":
     app.run(debug=True, port=5001)
